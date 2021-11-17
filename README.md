@@ -1,2 +1,2 @@
-Projeto através do **GitHub**
-Saiba mais sobre este projeto **_https://www.igeoe.pt/_**
+Projeto através do GitHub
+Saiba mais sobre este projeto https://www.igeoe.pt/
