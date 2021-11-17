@@ -1,4 +1,3 @@
 Projeto através do GitHub
 Saiba mais sobre este projeto
-Em: wwww.serra.com
-
+Em: (~~wwww.serra.com~~)
