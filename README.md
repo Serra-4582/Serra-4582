@@ -5,4 +5,4 @@ Projeto através do **_GitHub_**
 Saiba mais acerca deste projeto
 <p>
 Em: wwww.serra.com
-[![about](https://lh3.googleusercontent.com/proxy/wY8jZ02zepT3wkiiG2h8SIyZje9IraEWce6WBZ_W1Cj5jMtERltoXyDjmVFE3_0RuOSUaYwJYaKxg37G-ejmgh8Pm5hgm2WDGqfQNnKXK_XzTNhn6ME0jEKbYv9ZcQ)]
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tecmundo.com.br%2Fsoftware%2F119207-saiba-4-principais-formatos-imagens.htm&psig=AOvVaw2WhWlVVbEEzu6taSsT9Ewk&ust=1637320231697000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCKi-tKjjofQCFQAAAAAdAAAAABAE)
